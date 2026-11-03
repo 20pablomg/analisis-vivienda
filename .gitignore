@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor y sistema operativo
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales de Office
+~$*
+.~lock.*
+
+# Bases de datos generadas (se reconstruyen desde los datos y los scripts)
+*.sqlite
+*.db
+
+# Enlaces locales de contexto (las fuentes se documentan en fuentes.md)
+sources/
