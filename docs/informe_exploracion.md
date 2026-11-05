@@ -4,10 +4,10 @@ Generado automáticamente desde archivos originales. Este informe es **descripti
 
 ## Inventario
 
-- **IPV**: `data/raw/base25_raw.xlsx`
-- **IPC**: `data/raw/ipcgrupos_raw.xlsx`
-- **Salarios**: `data/raw/salarios_raw.xlsx`
-- **Valor tasado**: `data/raw/tasa_raw.csv`
+- **IPV**: `data/raw/core/base25_raw.xlsx`
+- **IPC**: `data/raw/core/ipcgrupos_raw.xlsx`
+- **Salarios**: `data/raw/core/salarios_raw.xlsx`
+- **Valor tasado**: `data/raw/core/tasa_raw.csv`
 
 ## IPV
 Archivo: `base25_raw.xlsx`

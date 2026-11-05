@@ -25,3 +25,16 @@ desktop.ini
 
 # Enlaces locales de contexto (las fuentes se documentan en fuentes.md)
 sources/
+
+# Datos de futuras ampliaciones
+/data/raw/apartamentos_turisticos/
+/data/raw/compraventas/
+/data/raw/construccion/
+/data/raw/hipotecas/
+/data/raw/hogares/
+/data/raw/ipva/
+/data/raw/poblacion/
+/data/raw/nucleo/
+
+# Apuntes privados
+/ruta.md
